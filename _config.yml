@@ -1,0 +1,14 @@
+layout_spectrum: 0.24092347570694983
+typography_spectrum: 0.9764661397784948
+color:
+  brandStrength: 0.5623399214819074
+  lightness: 0.1173567392397672
+  saturation: 0.07161227846518159
+  rhythmicContrast: 0.1515322271734476
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: web design
